@@ -82,16 +82,6 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=AdarshSolanki848&the
 
 </p>
 
----
-
-# 📈 Most Used Languages
-
-<p align="center">
-
-<img width="55%"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdarshSolanki848&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
 
 ---
 
@@ -131,16 +121,16 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=AdarshSolank
 
 # 🌐 Connect with Me
 
-<p align="center">
+<p align="center" >
 
 <a href="https://www.linkedin.com/in/adarsh-singh-solanki/">
 <img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
 </a>
-
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://leetcode.com/u/AdarshSinghSolanki/">
 <img src="https://cdn.simpleicons.org/leetcode" height="55"/>
 </a>
-
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:adarshsolanki2004@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="55"/>
 </a>
