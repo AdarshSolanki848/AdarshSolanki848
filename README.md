@@ -100,7 +100,7 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=AdarshSolank
 
 <p align="center">
   
-  <img src="https://raw.githubusercontent.com/AdarshSolanki848/AdarshSolanki848/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github.com/AdarshSolanki848/AdarshSolanki848/blob/output/github-contribution-grid-snake-dark.svg?raw=true" />
   
 </p>
 
