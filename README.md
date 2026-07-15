@@ -142,15 +142,15 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=AdarshSolank
 
 <p align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINK">
+<a href="https://www.linkedin.com/in/adarsh-singh-solanki/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="https://leetcode.com/YOUR_ID">
+<a href="https://leetcode.com/u/AdarshSinghSolanki/">
 <img src="https://cdn.simpleicons.org/leetcode"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:adarshsolanki2004@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
