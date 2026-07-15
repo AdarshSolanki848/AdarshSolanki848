@@ -126,15 +126,6 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=AdarshSolank
 | 🧩 Mini LeetCode | Coding Platform |
 | 📦 Task Manager API | FastAPI + MySQL |
 
----
-
-# 🏅 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=AdarshSolanki848&theme=tokyonight&no-frame=true&margin-w=15&row=2&column=4"/>
-
-</p>
 
 ---
 
@@ -143,15 +134,15 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=AdarshSolank
 <p align="center">
 
 <a href="https://www.linkedin.com/in/adarsh-singh-solanki/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://leetcode.com/u/AdarshSinghSolanki/">
-<img src="https://cdn.simpleicons.org/leetcode"/>
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
 <a href="mailto:adarshsolanki2004@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
